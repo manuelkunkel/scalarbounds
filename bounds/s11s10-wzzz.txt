@@ -1,0 +1,12 @@
+# ms   xs95 [pb]
+200  0.079770  # Contur - CombinedExclusion - CombinedExclusion
+250  0.066820  # Contur - CombinedExclusion - CombinedExclusion
+300  0.057090  # Contur - CombinedExclusion - CombinedExclusion
+350  0.038950  # Contur - CombinedExclusion - CombinedExclusion
+400  0.041860  # Contur - CombinedExclusion - CombinedExclusion
+500  0.032530  # Contur - CombinedExclusion - CombinedExclusion
+600  0.029430  # Contur - CombinedExclusion - CombinedExclusion
+700  0.021960  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+800  0.019840  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+900  0.015910  # Contur - CombinedExclusion - CombinedExclusion
+1000  0.012210  # Contur - CombinedExclusion - CombinedExclusion

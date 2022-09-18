@@ -1,0 +1,12 @@
+# ms   xs95 [pb]
+200  0.474220  # CheckMATE - atlas_1807_07447 - 3b1j
+250  0.188860  # CheckMATE - atlas_2106_09609 - SR11
+300  0.160740  # CheckMATE - atlas_2106_09609 - SR11
+350  0.130860  # CheckMATE - atlas_1807_07447 - 4b1j
+400  0.120230  # CheckMATE - atlas_1807_07447 - 4b1j
+500  0.118030  # CheckMATE - atlas_1807_07447 - 4b1j
+600  0.123060  # CheckMATE - atlas_1807_07447 - 4b1j
+700  0.120990  # CheckMATE - atlas_1908_03122 - SRAH
+800  0.065020  # MadAnalysis5 - cms_sus_19_006 - [SL]-174exclSRs
+900  0.042250  # CheckMATE - atlas_1908_03122 - SRAH
+1000  0.031640  # CheckMATE - atlas_2101_01629 - 6J_btag_2100

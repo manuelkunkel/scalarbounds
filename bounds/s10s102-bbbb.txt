@@ -1,0 +1,17 @@
+# ms   xs95 [pb]
+100  1.192008  # CheckMATE - atlas_1807_07447 - 3b1j
+125  0.657460  # CheckMATE - atlas_1807_07447 - 3b1j
+150  0.450029  # CheckMATE - atlas_1807_07447 - 3b1j
+175  0.339774  # CheckMATE - atlas_1807_07447 - 3b1j
+200  0.266502  # CheckMATE - atlas_1807_07447 - 3b1j
+225  0.227636  # CheckMATE - atlas_1807_07447 - 3b1j
+250  0.191014  # CheckMATE - atlas_1807_07447 - 4b1j
+300  0.144990  # CheckMATE - atlas_1807_07447 - 4b1j
+350  0.112682  # CheckMATE - atlas_1807_07447 - 4b1j
+400  0.098777  # CheckMATE - atlas_1807_07447 - 4b1j
+500  0.090442  # CheckMATE - atlas_1807_07447 - 4b1j
+600  0.092362  # CheckMATE - atlas_1807_07447 - 4b1j
+700  0.098187  # CheckMATE - atlas_1807_07447 - 4b1j
+800  0.107059  # CheckMATE - atlas_1807_07447 - 4b1j
+900  0.104837  # CheckMATE - atlas_1807_07447 - MET3b2j
+1000  0.080647  # MadAnalysis5 - cms_sus_16_033 - SR9_NJet5_Nb2_HT1500_MHT750

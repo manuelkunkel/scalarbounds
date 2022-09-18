@@ -1,0 +1,8 @@
+# ms   xs95 [pb]
+400.0  0.029350  # CheckMATE - atlas_2106_09609 - SR15
+500.0  0.021690  # CheckMATE - atlas_2106_09609 - SR15
+600.0  0.016550  # CheckMATE - atlas_2106_09609 - SR15
+700.0  0.016950  # CheckMATE - atlas_2106_09609 - SR17
+800.0  0.013180  # CheckMATE - atlas_2106_09609 - SR17
+900.0  0.013240  # CheckMATE - atlas_2106_09609 - SR17
+1000.0  0.009650  # CheckMATE - atlas_2106_09609 - SR21

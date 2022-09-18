@@ -1,0 +1,12 @@
+# ms   xs95 [pb]
+200  0.060780  # Contur - CombinedExclusion - CombinedExclusion
+250  0.036550  # Contur - CombinedExclusion - CombinedExclusion
+300  0.023700  # Contur - CombinedExclusion - CombinedExclusion
+350  0.017020  # Contur - CombinedExclusion - CombinedExclusion
+400  0.012670  # Contur - CombinedExclusion - CombinedExclusion
+500  0.008180  # Contur - CombinedExclusion - CombinedExclusion
+600  0.005880  # Contur - CombinedExclusion - CombinedExclusion
+700  0.004590  # Contur - CombinedExclusion - CombinedExclusion
+800  0.003560  # Contur - CombinedExclusion - CombinedExclusion
+900  0.003080  # Contur - CombinedExclusion - CombinedExclusion
+1000  0.002690  # Contur - CombinedExclusion - CombinedExclusion

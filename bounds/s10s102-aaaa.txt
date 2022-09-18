@@ -1,0 +1,16 @@
+# ms   xs95 [pb]
+100  0.021432  # CheckMATE - atlas_1807_07447 - 3g1j
+125  0.013345  # CheckMATE - atlas_1807_07447 - 3g1j
+150  0.009587  # CheckMATE - atlas_1807_07447 - 3g1j
+175  0.007732  # CheckMATE - atlas_1807_07447 - 3g1j
+200  0.006519  # CheckMATE - atlas_1807_07447 - 3g1j
+250  0.005398  # CheckMATE - atlas_1807_07447 - 3g1j
+300  0.004894  # CheckMATE - atlas_1807_07447 - 3g1j
+350  0.004661  # CheckMATE - atlas_1807_07447 - 3g1j
+400  0.003842  # Contur - CombinedExclusion - CombinedExclusion
+500  0.002659  # Contur - CombinedExclusion - CombinedExclusion
+600  0.002161  # Contur - CombinedExclusion - CombinedExclusion
+700  0.001916  # Contur - CombinedExclusion - CombinedExclusion
+800  0.001788  # Contur - CombinedExclusion - CombinedExclusion
+900  0.001711  # Contur - CombinedExclusion - CombinedExclusion
+1000  0.002008  # Contur - CombinedExclusion - CombinedExclusion

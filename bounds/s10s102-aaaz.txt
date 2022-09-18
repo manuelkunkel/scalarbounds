@@ -1,0 +1,16 @@
+# ms   xs95 [pb]
+100  0.012912  # CheckMATE - atlas_2004_10894 - Cat12
+125  0.004102  # CheckMATE - atlas_2004_10894 - Cat12
+150  0.004842  # CheckMATE - atlas_2004_10894 - Cat12
+175  0.009546  # CheckMATE - atlas_1802_03158 - SRaaWH
+200  0.007151  # CheckMATE - atlas_1802_03158 - SRaaWH
+250  0.003678  # CheckMATE - atlas_1802_03158 - SRaaWH
+300  0.002399  # CheckMATE - atlas_1802_03158 - SRaaWH
+350  0.001750  # CheckMATE - atlas_1802_03158 - SRaaWH
+400  0.001374  # CheckMATE - atlas_1802_03158 - SRaaWH
+500  0.001626  # CheckMATE - atlas_1802_03158 - SRaaWL
+600  0.001402  # CheckMATE - atlas_1802_03158 - SRaaWL
+700  0.000929  # CheckMATE - atlas_1802_03158 - SRaaSH
+800  0.000736  # CheckMATE - atlas_1802_03158 - SRaaSH
+900  0.000641  # CheckMATE - atlas_1802_03158 - SRaaSH
+1000  0.000582  # CheckMATE - atlas_1802_03158 - SRaaSH

@@ -1,0 +1,16 @@
+# ms   xs95 [pb]
+100  0.276215  # Contur - CombinedExclusion - CombinedExclusion
+125  0.008716  # CheckMATE - atlas_2004_10894 - Cat8
+150  0.007109  # CheckMATE - atlas_2004_10894 - Cat8
+175  0.006411  # CheckMATE - atlas_2004_10894 - Cat8
+200  0.006013  # CheckMATE - atlas_2004_10894 - Cat8
+250  0.005203  # CheckMATE - atlas_2004_10894 - Cat8
+300  0.002952  # CheckMATE - atlas_1802_03158 - SRaaWH
+350  0.001787  # CheckMATE - atlas_1802_03158 - SRaaWH
+400  0.001320  # CheckMATE - atlas_1802_03158 - SRaaWH
+500  0.001458  # CheckMATE - atlas_1802_03158 - SRaaWL
+600  0.001192  # CheckMATE - atlas_1802_03158 - SRaaWL
+700  0.001091  # CheckMATE - atlas_1802_03158 - SRaaWL
+800  0.000664  # CheckMATE - atlas_1802_03158 - SRaaSH
+900  0.000571  # CheckMATE - atlas_1802_03158 - SRaaSH
+1000  0.000518  # CheckMATE - atlas_1802_03158 - SRaaSH

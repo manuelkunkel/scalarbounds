@@ -1,0 +1,12 @@
+# ms   xs95 [pb]
+200  0.166680  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_375_500
+250  0.124380  # CheckMATE - atlas_conf_2016_096 - 3LH
+300  0.073190  # CheckMATE - atlas_conf_2016_096 - 3LH
+350  0.045830  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+400  0.026140  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+500  0.015420  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+600  0.009730  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+700  0.006400  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+800  0.005170  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+900  0.004430  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+1000  0.003890  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000

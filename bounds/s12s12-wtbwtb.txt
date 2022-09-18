@@ -1,0 +1,11 @@
+# ms   xs95 [pb]
+300  0.026548  # CheckMATE - atlas_2106_09609 - SR13
+350  0.013972  # CheckMATE - atlas_2106_09609 - SR13
+400  0.008072  # CheckMATE - atlas_2106_09609 - SR13
+450  0.011620  # CheckMATE - atlas_2106_09609 - SR15
+500  0.010454  # CheckMATE - atlas_2106_09609 - SR15
+600  0.007191  # CheckMATE - atlas_2106_09609 - SR15
+700  0.006333  # CheckMATE - atlas_2106_09609 - SR17
+800  0.005211  # CheckMATE - atlas_2106_09609 - SR17
+900  0.004739  # CheckMATE - atlas_2106_09609 - SR17
+1000  0.003368  # CheckMATE - atlas_2106_09609 - SR21

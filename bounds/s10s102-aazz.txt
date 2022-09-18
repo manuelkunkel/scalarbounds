@@ -1,0 +1,11 @@
+# ms   xs95 [pb]
+200  0.011164  # CheckMATE - atlas_1802_03158 - SRaaWH
+250  0.003783  # CheckMATE - atlas_1802_03158 - SRaaWH
+300  0.002129  # CheckMATE - atlas_1802_03158 - SRaaWH
+400  0.001137  # CheckMATE - atlas_1802_03158 - SRaaWH
+500  0.000861  # CheckMATE - atlas_1802_03158 - SRaaWH
+600  0.000732  # CheckMATE - atlas_1802_03158 - SRaaWH
+700  0.000838  # CheckMATE - atlas_1802_03158 - SRaaSH
+800  0.000637  # CheckMATE - atlas_1802_03158 - SRaaSH
+900  0.000554  # CheckMATE - atlas_1802_03158 - SRaaSH
+1000  0.000502  # CheckMATE - atlas_1802_03158 - SRaaSH

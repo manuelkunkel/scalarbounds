@@ -1,0 +1,9 @@
+# ms   xs95 [pb]
+400  0.134551  # CheckMATE - atlas_2106_09609 - SR11
+450  0.080056  # CheckMATE - atlas_2106_09609 - SR13
+500  0.124094  # CheckMATE - atlas_2106_09609 - SR15
+600  0.090219  # CheckMATE - atlas_2106_09609 - SR17
+700  0.092999  # MadAnalysis5 - cms_sus_16_033 - SR8_Njet5_Nb3_HT500_MHT500
+800  0.048336  # CheckMATE - atlas_2101_01629 - 6J_btag_2100
+900  0.023665  # CheckMATE - atlas_2101_01629 - 6J_btag_2100
+1000  0.015623  # CheckMATE - atlas_2101_01629 - 6J_btag_2100

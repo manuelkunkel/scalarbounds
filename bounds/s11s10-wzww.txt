@@ -1,11 +1,11 @@
 # ms   xs95 [pb]
-200  0.365150  # Contur - CombinedExclusion - CombinedExclusion
-250  0.176130  # CheckMATE - atlas_2106_09609 - SR12
-300  0.125800  # CheckMATE - atlas_2106_09609 - SR14
-350  0.085340  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-400  0.054690  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-500  0.025050  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-600  0.017400  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+200  0.066887  # CheckMATE - cms_sus_16_039 - SR_G05
+250  0.047883  # CheckMATE - cms_sus_16_039 - SR_G05
+300  0.033029  # CheckMATE - cms_sus_16_039 - SR_G05
+350  0.025948  # CheckMATE - cms_sus_16_039 - SR_G05
+400  0.022931  # CheckMATE - cms_sus_16_039 - SR_G05
+500  0.021448  # CheckMATE - cms_sus_16_039 - SR_G05
+600  0.016441  # CheckMATE - cms_sus_16_039 - SR_G05
 700  0.012460  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
 800  0.009870  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
 900  0.008390  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000

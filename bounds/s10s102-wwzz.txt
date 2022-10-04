@@ -1,11 +1,11 @@
 # ms   xs95 [pb]
-200  0.050599  # Contur - CombinedExclusion - CombinedExclusion
-250  0.067602  # Contur - CombinedExclusion - CombinedExclusion
-300  0.067872  # Contur - CombinedExclusion - CombinedExclusion
-400  0.054546  # Contur - CombinedExclusion - CombinedExclusion
-500  0.035059  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-600  0.024903  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-700  0.020553  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-800  0.016553  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-900  0.014787  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
-1000  0.013573  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+200  0.047200  # CheckMATE - cms_sus_16_039 - SR_G05
+250  0.029612  # CheckMATE - cms_sus_16_039 - SR_G05
+300  0.025443  # CheckMATE - cms_sus_16_039 - SR_G05
+400  0.019035  # CheckMATE - cms_sus_16_039 - SR_G05
+500  0.015833  # CheckMATE - cms_sus_16_039 - SR_G05
+600  0.014417  # CheckMATE - cms_sus_16_039 - SR_G05
+700  0.012608  # CheckMATE - cms_sus_16_039 - SR_G05
+800  0.013511  # CheckMATE - cms_sus_16_039 - SR_A31
+900  0.011786  # CheckMATE - cms_sus_16_039 - SR_A31
+1000  0.011632  # CheckMATE - cms_sus_16_039 - SR_A31

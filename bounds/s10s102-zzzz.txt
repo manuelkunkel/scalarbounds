@@ -1,11 +1,11 @@
 # ms   xs95 [pb]
 200  0.030445  # Contur - CombinedExclusion - CombinedExclusion
-250  0.032972  # Contur - CombinedExclusion - CombinedExclusion
-300  0.029163  # Contur - CombinedExclusion - CombinedExclusion
-400  0.021271  # Contur - CombinedExclusion - CombinedExclusion
-500  0.016790  # Contur - CombinedExclusion - CombinedExclusion
-600  0.016651  # Contur - CombinedExclusion - CombinedExclusion
-700  0.014456  # Contur - CombinedExclusion - CombinedExclusion
-800  0.011332  # Contur - CombinedExclusion - CombinedExclusion
-900  0.009320  # Contur - CombinedExclusion - CombinedExclusion
+250  0.022699  # CheckMATE - cms_sus_16_039 - SR_G05
+300  0.015999  # CheckMATE - cms_sus_16_039 - SR_G05
+400  0.011804  # CheckMATE - cms_sus_16_039 - SR_G05
+500  0.009829  # CheckMATE - cms_sus_16_039 - SR_G05
+600  0.008708  # CheckMATE - cms_sus_16_039 - SR_G05
+700  0.008700  # CheckMATE - cms_sus_16_039 - SR_G05
+800  0.007626  # CheckMATE - cms_sus_16_039 - SR_G05
+900  0.007291  # CheckMATE - cms_sus_16_039 - SR_G05
 1000  0.007222  # Contur - CombinedExclusion - CombinedExclusion

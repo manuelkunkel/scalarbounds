@@ -1,8 +1,8 @@
 # ms   xs95 [pb]
-200  0.131323  # CheckMATE - atlas_2106_09609 - SR14
+200  0.120897  # CheckMATE - cms_sus_16_039 - SR_B02
 250  0.103445  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_375_500
-300  0.072274  # CheckMATE - atlas_2106_09609 - SR14
-400  0.036565  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
+300  0.043146  # CheckMATE - cms_sus_16_039 - SR_A44
+400  0.019856  # CheckMATE - cms_sus_16_039 - SR_A44
 500  0.014201  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
 600  0.009171  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000
 700  0.006662  # MadAnalysis5 - cms_exo_19_002 - 3L_Above-Z__LTMET_875_1000

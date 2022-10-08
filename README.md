@@ -1,10 +1,10 @@
 # scalarbounds
 
-This repository contains the simplified model bounds on the Drell-Yan production of electroweak scalars shown in Figure 2 in  
+This repository contains the simplified model bounds on the Drell-Yan production of electroweak scalars shown in Figure 2 in [arXiv: 2210.01826](https://arxiv.org/abs/2210.01826)
 ```
 G. Cacciapaglia, T. Flacke, M. Kunkel, W. Porod, L. Schwarze
 Exploring extended Higgs sectors via pair production at the LHC
-arXiv: 2210.01826
+arXiv:2210.01826
 ``` 
 Please refer to the publication for details on the simulation setup. 
 

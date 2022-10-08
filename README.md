@@ -4,7 +4,7 @@ This repository contains the simplified model bounds on the Drell-Yan production
 ```
 G. Cacciapaglia, T. Flacke, M. Kunkel, W. Porod, L. Schwarze
 Exploring extended Higgs sectors via pair production at the LHC
-arXiv: 2209.xxxxx
+arXiv: 2210.01826
 ``` 
 Please refer to the publication for details on the simulation setup. 
 
